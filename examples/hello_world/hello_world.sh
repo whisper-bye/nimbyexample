@@ -9,5 +9,5 @@ $ nim compile --run hello.nim
 Hello, world.
 
 # A shorthand command that does the same thing.
-$ nim c -r hello-world.nim
+$ nim c -r hello.nim
 Hello, world.
